@@ -1,0 +1,128 @@
+#logo{float: left;margin-top: 50px;height:70px;margin-left: 100px;}
+
+
+#headerhp{display: inline-block;height: 30px;float: left;}
+
+
+header p{font-size: 10px;color: grey;}
+
+
+#imagesdiv{margin-top: 70px;margin-left: 450px;display: inline-block;}
+
+
+/* #headerdiv{border: 2px solid red;} */
+
+
+header h2{font-family: 'Brush Script MT',cursive;font-size: 40px}
+
+
+
+header{border-bottom:7px solid grey  ;border-bottom-style: groove;width: 1100px;margin-left:190px;height: 130px;}
+
+
+#icon{margin-left: 13px;}
+
+
+main{clear: both;}
+
+
+section{width: 1100px;margin-left:190px;padding-top: 25px;}
+
+
+section div h1{font-size: 40px; font-family: Tahoma, sans-serif;}
+
+
+section div p{ font-family: Tahoma, sans-serif;color:grey;}
+
+
+#seconddiv{float: left; margin: 100px 0 0 680px }
+
+
+#firstdiv{float: left;}
+
+
+
+
+p{color:grey;}
+
+
+
+
+#backgrounddiv{ background-image: url(https://raw.githubusercontent.com/LTUC/amman-irbid-201d31/main/class-10/lab-a/lab-assets/list-bg.png);}
+
+
+
+#leftdiv,#rightdiv{display: inline-block; padding:30px 0 30px 70px;}
+
+
+#rightdiv{margin-left: 200px;}
+
+
+
+.selection_checkbox:checked + .selection_label {
+    text-decoration:line-through;
+   }
+
+
+   #vanessa,#van{float: left;}
+
+
+   #vanessa{margin-top: 19px;}
+
+
+ 
+
+
+   button{height: 20px; display: inline-block;
+     height: 30px;width: 200px;background-color: #BC7058;margin-top: 60px;margin-left: 100px;color: white;}
+
+
+   #beforefooter{border-top:7px solid grey  ;border-bottom-style: groove;padding: 20px 0 70px 0;}
+
+
+
+
+
+
+ 
+
+
+
+   footer{
+       padding-top: 50px;
+    width: 1300px;
+    margin-left:90px;
+    height: 130px;
+    text-align: center;
+    clear: both;
+  }
+  
+  span {
+    
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  .outer-line {
+
+    width: 40%;
+    border-bottom: 1px solid grey;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
